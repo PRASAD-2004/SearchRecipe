@@ -1,0 +1,399 @@
+[
+    {
+        "id": 1,
+        "title": "Egg Manchurian",
+        "image": "https://www.licious.in/blog/wp-content/uploads/2021/09/shutterstock_1650877375.jpg",
+        "ingredients": [
+            "Eggs",
+            "Corn flour",
+            "All-purpose flour",
+            "Ginger",
+            "Garlic",
+            "Green chilies",
+            "Soy sauce",
+            "Tomato ketchup",
+            "Vinegar",
+            "Oil",
+            "Salt"
+        ],
+        "preparation": [
+            "Boil eggs, remove shell, and cut into halves.",
+            "Mix corn flour, all-purpose flour, salt, and water to make a batter.",
+            "Dip egg halves in the batter and deep fry until golden brown.",
+            "In a separate pan, heat oil and sauté ginger, garlic, and green chilies.",
+            "Add soy sauce, tomato ketchup, vinegar, and salt. Cook for a few minutes.",
+            "Add fried eggs and mix well. Serve hot."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Chicken Biryani",
+        "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-biryani-awadhi-01.jpg",
+        "ingredients": [
+            "Chicken",
+            "Basmati rice",
+            "Onions",
+            "Tomatoes",
+            "Yogurt",
+            "Ginger-garlic paste",
+            "Biryani masala",
+            "Mint leaves",
+            "Coriander leaves",
+            "Ghee",
+            "Oil",
+            "Salt"
+        ],
+        "preparation": [
+            "Marinate chicken with yogurt, ginger-garlic paste, biryani masala, mint leaves, coriander leaves, and salt.",
+            "Cook basmati rice separately and keep aside.",
+            "In a pan, heat ghee and oil. Sauté onions until golden brown.",
+            "Add tomatoes and cook until soft.",
+            "Add marinated chicken and cook until tender.",
+            "Layer cooked rice over the chicken mixture.",
+            "Cover and cook on low heat until the flavors blend. Serve hot."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Dal Tadka",
+        "image": "https://www.sinamontales.com/dotcord/uploads/2016/10/restaurant-style-dal-tadka-how-to-make-best-dal-tadka.1024x1024-7.jpg",
+        "ingredients": [
+            "Lentils (Toor dal, Masoor dal)",
+            "Onions",
+            "Tomatoes",
+            "Green chilies",
+            "Ginger",
+            "Garlic",
+            "Cumin seeds",
+            "Mustard seeds",
+            "Turmeric powder",
+            "Red chili powder",
+            "Garam masala",
+            "Coriander leaves",
+            "Ghee",
+            "Salt"
+        ],
+        "preparation": [
+            "Pressure cook lentils until soft.",
+            "In a pan, heat ghee. Add cumin seeds, mustard seeds, onions, green chilies, ginger, and garlic. Sauté until onions are golden brown.",
+            "Add tomatoes and cook until soft.",
+            "Add turmeric powder, red chili powder, and garam masala. Cook for a minute.",
+            "Add cooked lentils and salt. Cook for a few minutes.",
+            "Garnish with coriander leaves and serve hot."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Palak Paneer",
+        "image": "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-featured.jpg",
+        "ingredients": [
+            "Spinach",
+            "Paneer",
+            "Onions",
+            "Tomatoes",
+            "Green chilies",
+            "Ginger",
+            "Garlic",
+            "Cumin seeds",
+            "Turmeric powder",
+            "Coriander powder",
+            "Garam masala",
+            "Cream",
+            "Oil",
+            "Salt"
+        ],
+        "preparation": [
+            "Blanch spinach in hot water, drain, and blend into a smooth paste.",
+            "In a pan, heat oil. Add cumin seeds, onions, green chilies, ginger, and garlic. Sauté until onions are golden brown.",
+            "Add tomatoes and cook until soft.",
+            "Add turmeric powder, coriander powder, and garam masala. Cook for a minute.",
+            "Add spinach paste and cook for a few minutes.",
+            "Add paneer cubes, cream, and salt. Cook for another few minutes. Serve hot."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Gulab Jamun",
+        "image": "https://1.bp.blogspot.com/-XLpR9dpE_yc/XdDVk7NAffI/AAAAAAAAX6w/SrO8wxdgwUU0k3_MFQYv6JkIfC35HrQ7ACLcBGAsYHQ/s1600/gulab%2Bjamun%2B10.JPG",
+        "ingredients": [
+            "Milk powder",
+            "All-purpose flour",
+            "Baking powder",
+            "Ghee",
+            "Milk",
+            "Sugar",
+            "Water",
+            "Cardamom powder",
+            "Saffron strands"
+        ],
+        "preparation": [
+            "Mix milk powder, all-purpose flour, and baking powder in a bowl.",
+            "Add ghee and milk to form a smooth dough.",
+            "Shape the dough into small balls.",
+            "Heat ghee in a pan and fry the balls until golden brown.",
+            "In a separate pan, make a syrup with sugar, water, cardamom powder, and saffron strands.",
+            "Soak the fried balls in the syrup for a few hours. Serve warm."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Aloo Gobi",
+        "image": "https://www.thespruceeats.com/thmb/25Eppant8sATplXVhaomwjykdBk=/6530x4353/filters:fill(auto,1)/easy-indian-aloo-gobi-recipe-3377081-hero-01-1672957d1a8f44c19048a60d7b80894f.jpg",
+        "ingredients": [
+            "Potatoes",
+            "Cauliflower",
+            "Onions",
+            "Tomatoes",
+            "Green chilies",
+            "Ginger",
+            "Garlic",
+            "Turmeric powder",
+            "Cumin powder",
+            "Coriander powder",
+            "Garam masala",
+            "Coriander leaves",
+            "Oil",
+            "Salt"
+        ],
+        "preparation": [
+            "Cut potatoes and cauliflower into small florets.",
+            "In a pan, heat oil. Add cumin seeds, onions, green chilies, ginger, and garlic. Sauté until onions are golden brown.",
+            "Add tomatoes and cook until soft.",
+            "Add turmeric powder, cumin powder, coriander powder, and garam masala. Cook for a minute.",
+            "Add potatoes and cauliflower. Mix well.",
+            "Cover and cook until vegetables are tender. Garnish with coriander leaves. Serve hot."
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Orange Juice",
+        "image": "https://thestudiocafe.ie/wp-content/uploads/2021/03/iStock-825882916-1.jpg",
+        "ingredients": [
+            "Oranges"
+        ],
+        "preparation": [
+            "Peel oranges and remove seeds.",
+            "Blend oranges to extract juice.",
+            "Strain the juice to remove pulp.",
+            "Serve chilled."
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Mutton Curry",
+        "image": "https://www.thespruceeats.com/thmb/i2zhq0qXPHPz1NZ5xQ-5ILr1jsc=/5001x3329/filters:fill(auto,1)/goat-mutton-curry-1957594-hero-01-afaf638173cd47d595c7ad99a018cf01.jpg",
+        "ingredients": [
+            "Mutton",
+            "Onions",
+            "Tomatoes",
+            "Ginger-garlic paste",
+            "Turmeric powder",
+            "Red chili powder",
+            "Coriander powder",
+            "Garam masala",
+            "Yogurt",
+            "Oil",
+            "Salt"
+        ],
+        "preparation": [
+            "Marinate mutton with yogurt, ginger-garlic paste, turmeric powder, red chili powder, coriander powder, garam masala, and salt.",
+            "In a pan, heat oil. Add onions and sauté until golden brown.",
+            "Add tomatoes and cook until soft.",
+            "Add marinated mutton and cook until tender.",
+            "Garnish with coriander leaves. Serve hot."
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Samosas",
+        "image": "https://i1.wp.com/vegecravings.com/wp-content/uploads/2017/03/samosa-recipe-step-by-step-instructions.jpg?fit=1801%2C1717&ssl=1",
+        "ingredients": [
+            "All-purpose flour",
+            "Potatoes",
+            "Green peas",
+            "Onions",
+            "Ginger",
+            "Green chilies",
+            "Cumin seeds",
+            "Coriander powder",
+            "Turmeric powder",
+            "Garam masala",
+            "Oil",
+            "Salt"
+        ],
+        "preparation": [
+            "Make a dough with all-purpose flour, water, and salt. Rest the dough for some time.",
+            "Boil, peel, and mash potatoes.",
+            "In a pan, heat oil. Add cumin seeds, onions, ginger, green chilies, and sauté until onions are golden brown.",
+            "Add green peas, mashed potatoes, coriander powder, turmeric powder, garam masala, and salt. Cook for a few minutes.",
+            "Roll out small portions of the dough into circles. Fill each circle with the potato mixture and shape into triangles.",
+            "Deep fry the samosas until golden brown. Serve hot with chutney."
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Pani Puri",
+        "image": "http://2.bp.blogspot.com/-ImdkYaUxO18/Ubcg5VHTAPI/AAAAAAAACbs/5P9VFzHfvVE/s1600/Pani-puri-3.jpg",
+        "ingredients": [
+            "Semolina",
+            "All-purpose flour",
+            "Baking soda",
+            "Green chilies",
+            "Mint leaves",
+            "Coriander leaves",
+            "Tamarind",
+            "Dates",
+            "Jaggery",
+            "Chaat masala",
+            "Boondi",
+            "Potatoes",
+            "Chickpeas",
+            "Salt"
+        ],
+        "preparation": [
+            "Make a dough with semolina, all-purpose flour, baking soda, and water. Rest the dough for some time.",
+            "Boil, peel, and mash potatoes.",
+            "Blend green chilies, mint leaves, coriander leaves, tamarind, dates, jaggery, chaat masala, and salt to make a spicy water.",
+            "Roll out small portions of the dough into small circles and fry until crisp.",
+            "Make a hole in the center of each fried puri and fill with a mixture of potatoes, chickpeas, and boondi.",
+            "Dip the filled puris in the spicy water and serve immediately."
+        ]
+    },
+    {
+        
+            "id": 11,
+            "title": "Idiyappam",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDROwmOzx3rYxVcrronr4wuH_Fb56QDU0dD22s2NEwPg&s",
+            "ingredients": [
+                "Toor dal (split pigeon peas)",
+                "Mixed vegetables (such as carrot, beans, potato, drumstick)",
+                "Tamarind pulp",
+                "Sambar powder",
+                "Turmeric powder",
+                "Red chili powder",
+                "Asafoetida (hing)",
+                "Mustard seeds",
+                "Curry leaves",
+                "Dry red chilies",
+                "Oil",
+                "Salt",
+                "Water"
+            ],
+            "preparation": [
+                "Cook toor dal in a pressure cooker until soft and mushy.",
+                "In a separate pan, heat oil and add mustard seeds. Once they splutter, add asafoetida, curry leaves, and dry red chilies.",
+                "Add mixed vegetables and sauté for a few minutes.",
+                "Add tamarind pulp, sambar powder, turmeric powder, red chili powder, and salt. Mix well."
+            ]
+        
+    },
+    {
+           "id": 12,
+            "title": "Aloo Paratha",
+            "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/submissions/recipe/2000832843/Ty6HjraTQqXcqJfX6mNK_Aloo%20paratha.jpg",
+            "ingredients": [
+                "Whole wheat flour",
+                "Boiled and mashed potatoes",
+                "Green chilies",
+                "Cumin seeds",
+                "Coriander leaves",
+                "Salt",
+                "Ghee or oil"
+            ],
+            "preparation": [
+                "Knead whole wheat flour with water to make a soft dough. Rest the dough for 15-20 minutes.",
+                "Mix boiled and mashed potatoes with finely chopped green chilies, cumin seeds, coriander leaves, and salt to make the stuffing.",
+                "Divide the dough into small balls. Roll out each ball into a small circle, place a portion of the potato stuffing in the center, and seal the edges.",
+                "Roll out the stuffed dough ball into a paratha and cook on a hot griddle with ghee or oil until golden brown spots appear on both sides."
+            ]
+        
+    },
+    {
+        "id": 13,
+        "title": "Chole Bhature",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfmNwjgiu4dQ5qNUfu1eQ82S3IaTXJtZkOlnd5grllIg&s",
+        "ingredients": [
+            "Chickpeas (chole)",
+            "Onion",
+            "Tomato",
+            "Ginger",
+            "Garlic",
+            "Green chilies",
+            "Coriander powder",
+            "Cumin powder",
+            "Turmeric powder",
+            "Red chili powder",
+            "Garam masala",
+            "Amchur (dry mango) powder",
+            "Salt",
+            "Oil",
+            "All-purpose flour (maida)",
+            "Yogurt",
+            "Baking soda",
+            "Water"
+        ],
+        "preparation": [
+            "Soak chickpeas overnight. Pressure cook with salt until soft.",
+            "In a pan, heat oil and sauté chopped onions, ginger, garlic, and green chilies.",
+            "Add chopped tomatoes and cook until they soften.",
+            "Add coriander powder, cumin powder, turmeric powder, red chili powder, and salt. Cook the masala until oil separates.",
+            "Add cooked chickpeas and water if needed. Simmer until flavors meld.",
+            "For bhature, mix all-purpose flour, yogurt, salt, and a pinch of baking soda. Knead into a soft dough and let it rest.",
+            "Divide the dough into balls, roll out into discs, and deep fry until puffed and golden brown."
+        ]
+    },
+    {
+        "id":14,
+        "title":"carrot halwa",
+        "image":"https://tse1.mm.bing.net/th?id=OIP.v6UM1wCMaYeJQWwzuN7DAQHaFs&pid=Api&P=0&h=180",
+        "ingredients":[
+            "1 kg carrots, peeled and grated",
+            "1 liter full-fat milk",
+            "1 cup sugar (adjust to taste)",
+            "1/2 cup ghee (clarified butter)",
+            "1/2 cup chopped nuts (such as almonds, cashews, and pistachios)",
+            "1/2 tsp cardamom powder",
+            "Saffron strands (optional, for garnish)"
+          ],
+          "preparation": [
+            "Heat a heavy-bottomed pan or kadhai and add the grated carrots.",
+            "Saute the carrots over medium heat for about 5-7 minutes, stirring occasionally.",
+            "Add the milk to the pan and bring it to a simmer.",
+            "Cook the carrots in the milk, stirring occasionally, until the milk is reduced and thickened, and the carrots are soft and cooked through (about 30-40 minutes).",
+            "Add the sugar and mix well. Cook for another 10-15 minutes, stirring continuously, until the sugar is dissolved and the mixture thickens.",
+            "Add the ghee, chopped nuts, and cardamom powder. Mix well and cook for another 5-10 minutes.",
+            "Remove from heat and let it cool slightly.",
+            "Garnish with saffron strands (if using) and serve warm."
+          ]
+    },
+    {
+        "id":15,
+        "title":"ramen",
+        "image":"https://tse1.mm.bing.net/th?id=OIP.gXZMpR8Laxyvgjl-RPg9iAHaHa&pid=Api&P=0&h=180",
+        "ingredients":[
+              "2 packs of ramen noodles",
+              "4 cups of chicken or vegetable broth",
+              "2 cups of water",
+              "2 tbsp soy sauce",
+              "1 tbsp miso paste",
+              "1 tbsp sesame oil",
+              "1 tsp grated ginger",
+              "2 garlic cloves, minced",
+              "1 cup sliced mushrooms",
+              "2 cups chopped bok choy or spinach",
+              "2 boiled eggs, halved",
+              "Green onions and sesame seeds for garnish"
+            ],
+            "preparation": [
+              "In a large pot, bring the chicken or vegetable broth and water to a boil.",
+              "Add the soy sauce, miso paste, sesame oil, grated ginger, and minced garlic to the pot.",
+              "Reduce the heat to low and let the broth simmer for 10-15 minutes to allow the flavors to meld.",
+              "While the broth is simmering, cook the ramen noodles according to the package instructions. Drain and set aside.",
+              "Add the sliced mushrooms and chopped bok choy or spinach to the broth. Cook for another 5 minutes, or until the vegetables are tender.",
+              "Divide the cooked noodles among serving bowls. Ladle the broth and vegetables over the noodles.",
+              "Top each bowl with a halved boiled egg, sliced green onions, and sesame seeds.",
+              "Serve hot and enjoy!"
+            ]
+    }
+]
+ 
